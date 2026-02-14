@@ -42,8 +42,7 @@ export default function BarksNBubblesDemo() {
     {
       title: "Feline Luxe",
       price: "$75+",
-      image: "https://images.unsplash.com/photo-1514888286872-c15117bc4ad0?auto=format&fit=crop&q=80&w=400",
-      desc: "Gentle cat grooming including Lion Cuts.",
+      image: "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?auto=format&fit=crop&q=80&w=400",      desc: "Gentle cat grooming including Lion Cuts.",
       icon: <Cat size={20} />
     }
   ];
